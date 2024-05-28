@@ -101,6 +101,12 @@ nav {
     border-radius: 5px;
 }
 
+@media only screen and (max-width: 980px) {
+    nav {
+        gap: 90px;
+    }
+    
+}
 
 @media only screen and (max-width: 360px) {
     body {
